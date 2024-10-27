@@ -1,4 +1,4 @@
-# Programando_em_C2
+# Programando_em_C_2
 Criando um sistema em C que pga o valor digitidado pelo usuario e mostra se  ele é menor de idade, adulto  ou idoso
 
 Codigo 100% funcional
